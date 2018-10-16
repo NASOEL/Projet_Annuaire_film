@@ -1,21 +1,20 @@
-id,titre,description,années_sortie,genre,réalisateur
-1,Game of the throne,"Game of Thrones, également désignée par le titre français de l'œuvre romanesque dont elle est adaptée",2011,Film_Royale,
-2,La Casa del Papel ,"Huit voleurs font une prise d'otages dans la Maison royale de la Monnaie d'Espagne, tandis qu'un génie du crime manipule la police pour mettre son plan à exécution.",2017,Braqueur,Álex Pina
-3,Mr Robot,Film de sécurité informatique ,2015,sécurité_informatique,
-4,How to get away with Murder,Comment échapper a une condamnation de meurtre ,2014,Droit et Drame,Peter Nowalk
-5,Power ,"James St. Patrick, surnommé Ghost, est le propriétaire d'une boîte de nuit populaire à New York. En parallèle, 
-il est un acteur majeur dans l'un des plus grands réseaux de drogues illicites de la ville.",2014,Drame et Trafiquant,Coutrney Kamp
-6,KILLER ELITE,"Pour sauver Hunter, son ancien partenaire et mentor, Danny accepte de reprendre du service et de reformer son équipe
-. Mais celui qui était l’un des meilleurs agents des forces spéciales va cette fois affronter sa mission la plus périlleuse",2011,"Thriller, Action",Gary McKendry
-7,Aldain 2,"Après avoir libéré Bagdad de l’emprise de son terrible Vizir, Aladin s’ennuie au palais et ne s’est 
+"1","Game of the throne","Game of Thrones, également désignée par le titre français de l'œuvre romanesque dont elle est adaptée","2011","Film_Royale",
+"2","La Casa del Papel ","Huit voleurs font une prise d'otages dans la Maison royale de la Monnaie d'Espagne, tandis qu'un génie du crime manipule la police pour mettre son plan à exécution.","2017","Braqueur","Álex Pina"
+"3","Mr Robot","Film de sécurité informatique ","2015","sécurité_informatique",
+"4","How to get away with Murder","Comment échapper a une condamnation de meurtre ","2014","Droit et Drame","Peter Nowalk"
+"5","Power ","James St. Patrick, surnommé Ghost, est le propriétaire d'une boîte de nuit populaire à New York. En parallèle, 
+il est un acteur majeur dans l'un des plus grands réseaux de drogues illicites de la ville.","2014","Drame et Trafiquant","Coutrney Kamp"
+"6","KILLER ELITE","Pour sauver Hunter, son ancien partenaire et mentor, Danny accepte de reprendre du service et de reformer son équipe
+. Mais celui qui était l’un des meilleurs agents des forces spéciales va cette fois affronter sa mission la plus périlleuse","2011","Thriller, Action","Gary McKendry"
+"7","Aldain 2","Après avoir libéré Bagdad de l’emprise de son terrible Vizir, Aladin s’ennuie au palais et ne s’est 
 toujours pas décidé à demander en mariage la princesse. Mais un terrible dictateur, Shah Zaman, 
-s’invite au Palais et annonce qu’il est venu prendre la ville et épouser la Princesse.",2018,Comédie,Lionel Steketee
-8,Les Frères Sisters,"Charlie et Eli Sisters évoluent dans un monde sauvage et hostile, ils ont du sang sur les mains : celui de criminels, celui d'innocents…
+s’invite au Palais et annonce qu’il est venu prendre la ville et épouser la Princesse.","2018","Comédie","Lionel Steketee"
+"8","Les Frères Sisters","Charlie et Eli Sisters évoluent dans un monde sauvage et hostile, ils ont du sang sur les mains : celui de criminels, celui d'innocents…
  Ils n'éprouvent aucun état d'âme à tuer. C'est leur métier. Charlie, le cadet, est né pour ça. Eli, lui, ne rêve que d'une vie normale. Ils
- Sont engagés par le Commodore pour rechercher et tuer un homme.",2018,Western,Jacques Audiard
-9,Venom,"Possédé par un symbiote qui agit de manière autonome, le journaliste Eddie Brock devient le protecteur létal Venom.",2018,"Science fiction, Action",Ruben Fleischer
-10,Élite,"Las Encinas est l’école la plus compétitive et huppée d’Espagne accueillant les enfants de l’élite. C’est également 
-Dans cette école que trois enfants de la classe ouvrière sont admis lorsque leur école est détruite",2018,Drame,"Darío Madrona,"
-11,I Feel Good,"Monique dirige une communauté Emmaüs près de Pau. Après plusieurs années d’absence, elle voit débarquer son frère, Jacques, un bon
- à rien qui n’a qu’une obsession : trouver l’idée qui le rendra riche.",2018,Comédie,Gustave Kervern
-12,,,,,
+ Sont engagés par le Commodore pour rechercher et tuer un homme.","2018","Western","Jacques Audiard"
+"9","Venom","Possédé par un symbiote qui agit de manière autonome, le journaliste Eddie Brock devient le protecteur létal Venom.","2018","Science fiction, Action","Ruben Fleischer"
+"10","Élite","Las Encinas est l’école la plus compétitive et huppée d’Espagne accueillant les enfants de l’élite. C’est également 
+Dans cette école que trois enfants de la classe ouvrière sont admis lorsque leur école est détruite","2018","Drame","Darío Madrona,"
+"11","I Feel Good","Monique dirige une communauté Emmaüs près de Pau. Après plusieurs années d’absence, elle voit débarquer son frère, Jacques, un bon
+ à rien qui n’a qu’une obsession : trouver l’idée qui le rendra riche.","2018","Comédie","Gustave Kervern"
+"12",,,,,
